@@ -4673,3 +4673,10 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+11.[https://fancypedia.my.id/] frotn end  
+[https://github.com/Fancypedia/Fancypedia.github.io] repo FE
+[https://github.com/Fancypedia/swagger] Swegger BE
+[https://github.com/Fancypedia/adminDashboard] admin
+https://github.com/Fancypedia/fancybackenddd [backend]
+
+e katalog isieng pak dibuat berdua dengan saya raul dan maulana terdiri dari html css Vanila JS es6 dan Backendnya goalgn di deploy di GCP
